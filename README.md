@@ -40,13 +40,13 @@ Ticapsoriginal Selenium Driving on all Urls of Large Sitemaps
 <pre><code>pip install advertools
 </code></pre>
 
-## Clone ticapsoriginal sitemaps2txt Converter repository:
+## Clone ticapsoriginal Selenium sitemaps driver repository:
 <pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_selenium_sitemaps_driver.git
 </code></pre>
 
 * Change the sitemapsdriver.py file with your sitemap url 
 
-## Make sitemap 2 txt conversion:
+## run Selenium sitemaps driver:
 <pre><code>python sitemapsdriver.py
 </code></pre>
 
