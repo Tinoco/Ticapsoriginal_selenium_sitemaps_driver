@@ -57,3 +57,6 @@ Ticapsoriginal Selenium Driving on all Urls of Large Sitemaps
 
 * [`0% code plagiarism detected`](https://github.com/blingenf/copydetect)
 
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
+
