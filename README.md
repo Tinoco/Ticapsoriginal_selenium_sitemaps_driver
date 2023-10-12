@@ -28,10 +28,6 @@ Ticapsoriginal Selenium Driving on all Urls of Large Sitemaps
 </code></pre>
 
 
-## Install time to awaiting refresh: 
-<pre><code>pip install time
-</code></pre>
-
 ## Install tqdm to see progress bar: 
 <pre><code>pip install tqdm
 </code></pre>
